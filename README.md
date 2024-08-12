@@ -1,3 +1,7 @@
+# React Native refactored To Do App
+
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-08-11 at 23 52 25](https://github.com/user-attachments/assets/910a349e-716f-469e-95aa-22ae9d7c9904)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
