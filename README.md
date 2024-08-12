@@ -1,4 +1,4 @@
-# React Native refactored To Do App
+# React Native refactored To Do App using Redux Toolkit
 
 ![Simulator Screenshot - iPhone SE (3rd generation) - 2024-08-11 at 23 52 25](https://github.com/user-attachments/assets/910a349e-716f-469e-95aa-22ae9d7c9904)
 
