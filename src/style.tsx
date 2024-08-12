@@ -24,6 +24,23 @@ const styles = StyleSheet.create({
     padding: 20,
     marginHorizontal: 10,
   },
+  input: {
+    borderColor: '#ccc',
+    borderWidth: 1,
+    padding: 8,
+    marginBottom: 10,
+    borderRadius: 4,
+  },
+  todoItem: {
+    padding: 10,
+    fontSize: 18,
+    borderBottomWidth: 1,
+    borderBottomColor: '#eee',
+  },
+  completed: {
+    textDecorationLine: 'line-through',
+    color: '#999',
+  },
 });
 
 export default styles;
